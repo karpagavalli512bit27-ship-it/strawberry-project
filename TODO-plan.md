@@ -1,0 +1,1 @@
+- [x] 2. Edit src/index.js: Add BrowserRouter&#10;- [x] 3. Create src/AuthContext.js: Simple auth context&#10;- [x] 4. Edit src/App.js: Routes + AuthProvider&#10;- [x] 5. Edit src/Dashboard.js: Fix imports, api, dropzone, JSX&#10;- [x] 6. Edit src/Login.js: Use context if needed&#10;- [x] 7. Read & fix src/Style.css for classes
