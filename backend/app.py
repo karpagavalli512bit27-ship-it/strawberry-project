@@ -200,6 +200,10 @@ def run_training_async(epochs=5):
         import traceback
         traceback.print_exc()
 
+@app.route("/")
+def home():
+    return "Backend is running successfully!"
+
 # ========== API ROUTES ==========
 
 @app.route("/predict", methods=["POST"])
